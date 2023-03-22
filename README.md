@@ -4,7 +4,7 @@ Welcome to `nextjs-chatgpt-app`! 🎉🚀 Responsive chat application powered by
 highlighting, code execution, development presets, and more. The app is built using Next.js and TypeScript, and it's
 designed to be easy to use, customize, and extend. We encourage you to contribute and help improve this project! 😊
 
-[![Official Website](https://img.shields.io/badge/Demo-%23096bde?style=for-the-badge&logo=vercel&label=try)](https://nextjs-chatgpt-app-enricoros.vercel.app)
+[![Official Website](https://img.shields.io/badge/Demo-%23096bde?style=for-the-badge&logo=vercel&label=try)](https://huniko-chatgpt-web.vercel.app/)
 
 Click to fork and run on Vercel, or check out the demo (bring your own API keys).
 
